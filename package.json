@@ -1,5 +1,5 @@
 {
- "name": "henla464/bleno",
+ "name": "@henla464/bleno",
  "version": "0.6.3",
   "description": "A Node.js module for implementing BLE (Bluetooth Low Energy) peripherals",
   "main": "index.js",
